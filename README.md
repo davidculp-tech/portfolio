@@ -14,4 +14,5 @@ This repository serves as a technical "paper trail" for my 35-year career. I pri
 4. **OpenCompliance-AI**: NIST 800-53 GRC engine built with FastAPI and local LLMs to replace expensive proprietary cloud auditors.
 5. **OpenClinical-AI**: Deterministic SQL-Augmented Generation for offline C-CDA XML analysis. High-stakes clinical informatics with zero PHI leakage.
 6. **The $1 Profwssional Conference Suite**: Resourceful engineering using E-waste S21FE hardware as NDI endpoints on isolated VLANs. MDM-managed resilience.
+
 https://davidculp-tech.github.io/portfolio/
